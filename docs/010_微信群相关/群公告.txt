@@ -43,8 +43,6 @@ https://www.apachefriends.org/jp/index.html
 
 后续细的内容我再慢慢整理成文章或者视频把。先共有一下大的纲要
 
-■可以参考的网站
-http://kodomoshokudou-network.com/index.html#list_s
 
 ■源代码
 https://github.com/ljsdl/kmusubi
@@ -55,3 +53,5 @@ https://github.com/ljsdl/kmusubi/tree/master/docs
 ■另外还为不参与该项目但想学习的朋友准备了另外一套源代码，允许自由修改。
 https://github.com/ljsdl/ITCompany
 
+■可以参考的网站
+http://kodomoshokudou-network.com/index.html#list_s
