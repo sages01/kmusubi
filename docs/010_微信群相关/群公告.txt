@@ -43,7 +43,6 @@ https://www.apachefriends.org/jp/index.html
 
 后续细的内容我再慢慢整理成文章或者视频把。先共有一下大的纲要
 
-
 ■源代码
 https://github.com/ljsdl/kmusubi
 
