@@ -1,0 +1,57 @@
+■关于儿童食堂公益网站
+https://kmusubi.org
+完全是公益性质的网站建设。
+儿童食堂，是帮助生活困难的家庭的孩子解决吃的问题。已经有很多实体餐饮店也在参与这样的活动，但是信息没有整合到一个平台上，我们打算通过网站的建设打通信息聚集的问题，帮助餐饮店，也帮助困难儿童。
+
+网站后台管理
+https://kmusubi.org/wp-admin
+user: test
+password: test
+
+■重点学习技术有以下几点
+1. wordpress
+2. HTML
+3. CSS
+4. PHP
+5. JavaScript
+
+■目标
+1.通过本次项目实践，学习，能够自主的制作简单的公司主页，个人博客等。将来可以为自己公司创建网站或者自己承接一些小的网站设计业务。既可以作为主业，也可以作为副业。
+
+2.结交一些志同道合的朋友，建立友谊，建立未来可能存在的合作关系。承接到大的项目的时候可以在群里叫一声，一起去分工和分担项目。
+
+3.估计会有很多日本地区的朋友加入进来，日语也可以作为互相学习的内容。日语进步。
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+■先在群里分享一些基础的内容
+1. HTML的学习
+日文学习网站
+https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web/HTML_basics
+
+中文学习网站
+https://www.runoob.com/html/html-tutorial.html
+
+2. WorPress
+日文wordpress官网
+https://ja.wordpress.org/
+
+中文wordpress官网
+https://cn.wordpress.org/
+
+3. 本地的wordpress网站运行环境搭建
+Apache，PHP，MySQL的本地环境搭建，使用XAMPP工具，快速搭建。
+https://www.apachefriends.org/jp/index.html
+
+后续细的内容我再慢慢整理成文章或者视频把。先共有一下大的纲要
+
+■可以参考的网站
+http://kodomoshokudou-network.com/index.html#list_s
+
+■源代码
+https://github.com/ljsdl/kmusubi
+
+■项目文档管理
+https://github.com/ljsdl/kmusubi/tree/master/docs
+
+■另外还为不参与该项目但想学习的朋友准备了另外一套源代码，允许自由修改。
+https://github.com/ljsdl/ITCompany
+
